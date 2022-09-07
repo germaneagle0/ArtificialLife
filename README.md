@@ -8,14 +8,9 @@ python3 -m http.server
 And open the html file in localhost from the port used.
 
 ### Without Web Assembly
-![withoutwebassembly](https://user-images.githubusercontent.com/59073055/188779915-668c8ffd-ac3f-4d36-9f37-336af0cf6044.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/59073055/188787111-2507b285-cafa-4034-b816-3bbe69018ff7.gif)
 ### With
-
-
-
 https://user-images.githubusercontent.com/59073055/188786599-da756bc0-8afd-483e-82bc-384dc3eb8783.mp4
-
-
 ## To edit the parameter
 Change the hello.c, modify the parameters you want then recompile
 
